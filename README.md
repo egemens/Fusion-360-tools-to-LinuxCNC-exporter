@@ -5,6 +5,7 @@ https://github.com/ntc490/fusion360
 
 The script runs in Fusion 360, pointing to "CAMTools" directory, where both local and cloud libraries are found as json files. If the path to the directory changes in the future updates of the Fusion 360, just change it in the script.
    	
+## Only tested on MacOS
 
 ### How to install and use
 
